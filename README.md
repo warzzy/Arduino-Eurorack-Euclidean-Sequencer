@@ -1,7 +1,7 @@
 # Arduino-Eurorack-Euclidean-Sequencer
 
-  3 independent channel with steps and length control
-  Rotary encoder for menus and control
+  3 independent channel with steps and length control 
+  Rotary encoder for menus and control 
   NeoPixel LED ring display
   5V CLK External IN
   
